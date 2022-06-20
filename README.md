@@ -1,0 +1,1 @@
+# riode-aspanetcore-shop
